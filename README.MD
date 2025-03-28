@@ -10,6 +10,7 @@ Welcome to the Streamlit Diary app! Streamlit Diary is a simple web application 
 ### 📊 Graph with Hover Info  
 ![File Selection](https://raw.githubusercontent.com/SorinaO/streamlit_diary/master/Diary_Tone_Analysis2.jpg)
 
+
 ## ✨ Features
 
 Automatically reads and processes diary entries from .txt files using the glob library.
@@ -17,6 +18,7 @@ Uses NLTK's VADER sentiment analysis to calculate positivity and negativity scor
 Displays results in a clean, interactive web interface powered by Streamlit.
 Visualizes sentiment trends over time with line charts.
 Easy-to-use and lightweight, with minimal setup required.
+
 
 ## 🛠️ Technologies Used
 
@@ -29,6 +31,7 @@ Easy-to-use and lightweight, with minimal setup required.
 - **Pandas**: For data manipulation and analysis.
 
 - **Glob**: For locating and processing diary files.
+
 
 ## 🚀 Installation Instructions
 Follow these steps to install and run the Streamlit Diary app locally.
@@ -52,10 +55,12 @@ The app will open in your browser at http://localhost:8501.
 Open the app in your browser using the URL:
 ```http://localhost:8501```
 
+
 ## 📝 Usage
 1. Run the app as mentioned in the installation instructions.
 2. Select or upload your diary text file.
 3. View sentiment analysis and graph visualizations of your text.
+
 
 ## 📄 Requirements
 - Make sure you have the following installed:
