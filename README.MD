@@ -76,6 +76,29 @@ Open the app in your browser using the URL:
 
 Other dependencies listed in requirements.txt
 
+---
+
+## 💡 Contributing
+Feel free to fork the repository, make improvements, and submit a pull request!
+Suggestions and contributions are always welcome. 😊
+
+---
+
+## 📩 Contact
+For any feedback or questions, reach out via GitHub Issues.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
