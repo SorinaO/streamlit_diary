@@ -18,7 +18,8 @@ Displays results in a clean, interactive web interface powered by Streamlit.
 Visualizes sentiment trends over time with line charts.
 Easy-to-use and lightweight, with minimal setup required.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
+
 Python: Core programming language.
 
 Streamlit: For building the web application.
@@ -29,48 +30,39 @@ Pandas: For data manipulation and analysis.
 
 Glob: For locating and processing diary files.
 
-🚀 Installation Instructions
+## 🚀 Installation Instructions
 Follow these steps to install and run the Streamlit Diary app locally.
 
-1. Clone the Repository
+## 1. Clone the Repository
 Clone the repository to your local machine:
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/streamlit_diary.git
 cd streamlit_diary
-2. Install Dependencies
+
+## 2. Install Dependencies
 Ensure you have pip installed. Then, install the required Python libraries:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
-3. Run the Application
+
+## 3. Run the Application
 After installation, run the Streamlit app:
 
-bash
-Copy
-Edit
 streamlit run app.py
 The app will open in your browser at http://localhost:8501.
 
-4. Access the Application
+## 4. Access the Application
 Open the app in your browser using the URL:
 
-bash
-Copy
-Edit
 http://localhost:8501
-📝 Usage
+
+## 📝 Usage
 Run the app as mentioned in the installation instructions.
 
 Select or upload your diary text file.
 
 View sentiment analysis and graph visualizations of your text.
 
-📄 Requirements
+## 📄 Requirements
 Make sure you have the following installed:
 
 Python 3.7+
@@ -79,7 +71,7 @@ Streamlit
 
 Other dependencies listed in requirements.txt
 
-📋 GitHub Setup
+## 📋 GitHub Setup
 Steps to Add to Your GitHub:
 
 Copy this README.md content.
