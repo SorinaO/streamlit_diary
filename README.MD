@@ -20,15 +20,15 @@ Easy-to-use and lightweight, with minimal setup required.
 
 ## 🛠️ Technologies Used
 
-Python: Core programming language.
+- **Python**: Core programming language.
 
-Streamlit: For building the web application.
+- **Streamlit**: For building the web application.
 
-NLTK: For sentiment analysis using the VADER lexicon.
+- **NLTK**: For sentiment analysis using the VADER lexicon.
 
-Pandas: For data manipulation and analysis.
+- **Pandas**: For data manipulation and analysis.
 
-Glob: For locating and processing diary files.
+- **Glob**: For locating and processing diary files.
 
 ## 🚀 Installation Instructions
 Follow these steps to install and run the Streamlit Diary app locally.
@@ -41,33 +41,26 @@ cd streamlit_diary
 
 ## 2. Install Dependencies
 Ensure you have pip installed. Then, install the required Python libraries:
-
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ## 3. Run the Application
 After installation, run the Streamlit app:
-
-streamlit run app.py
+```streamlit run app.py```
 The app will open in your browser at http://localhost:8501.
 
 ## 4. Access the Application
 Open the app in your browser using the URL:
-
-http://localhost:8501
+```http://localhost:8501```
 
 ## 📝 Usage
-Run the app as mentioned in the installation instructions.
-
-Select or upload your diary text file.
-
-View sentiment analysis and graph visualizations of your text.
+1. Run the app as mentioned in the installation instructions.
+2. Select or upload your diary text file.
+3. View sentiment analysis and graph visualizations of your text.
 
 ## 📄 Requirements
-Make sure you have the following installed:
-
-Python 3.7+
-
-Streamlit
+- Make sure you have the following installed:
+- Python 3.7+
+- Streamlit
 
 Other dependencies listed in requirements.txt
 
