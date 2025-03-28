@@ -60,12 +60,14 @@ The app will open in your browser at http://localhost:8501.
 Open the app in your browser using the URL:
 ```http://localhost:8501```
 
+---
 
 ## 📝 Usage
 1. Run the app as mentioned in the installation instructions.
 2. Select or upload your diary text file.
 3. View sentiment analysis and graph visualizations of your text.
 
+---
 
 ## 📄 Requirements
 - Make sure you have the following installed:
