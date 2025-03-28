@@ -5,7 +5,7 @@ Streamlit Diary
 ### 📊 Sentiment Analysis Graph  
 ![Sentiment Analysis](https://raw.githubusercontent.com/SorinaO/streamlit_diary/master/Diary_Tone_Analysis1.jpg)
 
-### 📂 File Selection  
+### 📊 Graph with Hover Info  
 ![File Selection](https://raw.githubusercontent.com/SorinaO/streamlit_diary/master/Diary_Tone_Analysis2.jpg)
 
 
