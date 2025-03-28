@@ -1,4 +1,4 @@
-Streamlit Diary
+# Streamlit Diary
 
 ## 📸 Screenshots
 
