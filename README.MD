@@ -38,7 +38,8 @@ cd streamlit_diary
 
 ### 2. Install Dependencies
 Ensure you have pip installed. Then, install the required Python libraries:
-'''pip install -r requirements.txt'''
+```bash
+pip install -r requirements.txt
 
 ### 3. Run the Application
 After installation, run the Streamlit app:
