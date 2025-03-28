@@ -32,13 +32,12 @@ Follow these steps to install and run the **Streamlit Diary** app locally.
 
 Clone the repository to your local machine:
 
-```bash
 git clone https://github.com/your-username/streamlit_diary.git
 cd streamlit_diary
 
 ### 2. Install Dependencies
 Ensure you have pip installed. Then, install the required Python libraries:
-```bash
+
 pip install -r requirements.txt
 
 ### 3. Run the Application
