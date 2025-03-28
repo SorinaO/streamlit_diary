@@ -1,4 +1,6 @@
-# 📔 Diary Tone Analysis
+# Streamlit Diary - Sentiment Analysis App
+
+Welcome to the Streamlit Diary app! Streamlit Diary is a simple web application built with Streamlit that analyzes the tone of daily diary entries. The app processes text files containing diary entries, calculates positivity and negativity scores using NLTK's SentimentIntensityAnalyzer, and visualizes the results as interactive line charts.
 
 ## 📸 Screenshots
 
@@ -7,9 +9,6 @@
 
 ### 📊 Graph with Hover Info  
 ![File Selection](https://raw.githubusercontent.com/SorinaO/streamlit_diary/master/Diary_Tone_Analysis2.jpg)
-
-
-Streamlit Diary is a simple web application built with Streamlit that analyzes the tone of daily diary entries. The app processes text files containing diary entries, calculates positivity and negativity scores using NLTK's SentimentIntensityAnalyzer, and visualizes the results as interactive line charts.
 
 ## ✨ Features
 
