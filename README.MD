@@ -64,20 +64,7 @@ Open the app in your browser using the URL:
 
 Other dependencies listed in requirements.txt
 
-## 📋 GitHub Setup
-Steps to Add to Your GitHub:
 
-Copy this README.md content.
-
-In your repository, create a new file named README.md.
-
-Paste the copied content into the README.md.
-
-Commit and push the changes to your GitHub repository.
-
-With this format, the code is more distinguishable from the text, and it's easier for the reader to follow along with the installation process. Additionally, the use of headers and bullet points adds structure, making it visually appealing and accessible.
-
-Let me know if you'd like any further changes or additions!
 
 
 
